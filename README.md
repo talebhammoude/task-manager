@@ -1,7 +1,7 @@
 # task-manager
 
 
-NextJS app
+React app
 
 
 1. NoSQL (with Firebase).
