@@ -105,9 +105,9 @@ export default function SignIn() {
                   Glömt lösenordet?
                 </Link>
               </Grid>
-              <Grid item>
+              <Grid item xs>
                 <Link href="#" variant="body2">
-                  {"Inget konto? Skapa ett här..."}
+                  {"Skapa nytt konto"}
                 </Link>
               </Grid>
             </Grid>
