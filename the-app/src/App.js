@@ -1,5 +1,5 @@
 import './App.css';
-import SignIn from './Components/Login/index';
+import Login from './Components/Login/index';
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
       <meta name="viewport" content="initial-scale=1, width=device-width" />
 
-      <SignIn/>
+      <Login/>
       </header>
     </div>
   );
